@@ -1,0 +1,9 @@
+.gitignore
+block.jpg
+screenProgramm.jpg
+Final work.csproj
+Program.cs
+bin/
+obj/
+Commit.jpg
+ FinalWork/
